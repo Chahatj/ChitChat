@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_send">SendActivity</string>
+    <string name="title_activity_create_group">CreateGroupActivity</string>
+    <string name="title_activity_my_group">MyGroupActivity</string>
+    <string name="title_activity_group_chat">GroupChatActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_profile">Profile</string>
+</resources>
